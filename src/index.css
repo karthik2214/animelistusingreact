@@ -46,6 +46,7 @@ ol{
 
 li{
   list-style: none;
+  text-transform: capitalize;
 }
 
 .content{
