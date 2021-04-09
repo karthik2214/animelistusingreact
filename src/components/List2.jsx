@@ -21,7 +21,7 @@ return (
 <li>7. JJK</li>
 <li>8. Erased</li>
 <li>9. Neon Genesis evangelion</li>
-<li>10. Demon Slayer</li>
+<li>10. Demon Slayer/tokyo ghoul</li>
 </ul>
 
 <h1 style={heading}> Hello, My name is {name} </h1>
